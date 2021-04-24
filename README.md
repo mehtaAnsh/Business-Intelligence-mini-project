@@ -14,3 +14,5 @@ Run and see the output. Used preferably with Google Colab.
 Colab Link: https://colab.research.google.com/drive/1KNCAjQbstKrZxcjNryw9hCKsDVYEbLdQ?usp=sharing
 
 Dataset Link: https://www.kaggle.com/camnugent/california-housing-prices
+
+##### Please leave a star if the project helps you in any way!
